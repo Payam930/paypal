@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-GB">
   <info>
-    <title>SAGE - Vancouver - Payam Tabaee</title>
+    <title>SAGE - Vancouver</title>
     <id>https://csl.mendeley.com/styles/503412341/sage-vancouver-3</id>
     <link href="http://www.zotero.org/styles/sage-vancouver" rel="self"/>
     <link href="http://www.uk.sagepub.com/repository/binaries/pdf/SAGE_Vancouver_reference_style.pdf" rel="documentation"/>
     <author>
-      <name>Michael Berkowitz</name>
-      <email>mberkowi@gmu.edu</email>
+      <name>Payam Tabaee</name>
+      <email></email>
     </author>
     <contributor>
-      <name>Sean Takats</name>
-      <email>stakats@gmu.edu</email>
+      <name>Michael Berkowitz</name>
+      <email></email>
     </contributor>
     <contributor>
-      <name>Sebastian Karcher</name>
+      <name></name>
     </contributor>
     <contributor>
       <name>Payam Tabaee</name>
